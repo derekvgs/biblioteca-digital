@@ -2,7 +2,7 @@
 
 **Curso:** ISB-32 Programación Avanzada  
 **Profesor:** Ing. Roberto Antonio Jacamo Soto  
-**Estudiante:** [Tu Nombre Aquí]  
+**Estudiante:** Derek Vargas 
 **Entrega:** Proyecto III - Sistema Avanzado de Gestión de Biblioteca
 
 ---
@@ -105,4 +105,3 @@ Incluye uml_modelo_entidad_relacion_biblioteca.png, que refleja la estructura en
 Agradecimiento
 Gracias profesor Jacamo por fomentar el uso de buenas prácticas y herramientas que no solo funcionan en clase, sino que también se proyectan a nivel profesional. Esta guía nos ayudó a construir más allá de lo básico.
 Conecté mi primera pasantía recientemente, y su impulso a que lo hiciéramos fue clave. Aprecio el enfoque práctico y su estilo directo.
-Este proyecto es un reflejo de todo lo aprendido.
